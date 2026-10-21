@@ -11,3 +11,6 @@ saludar();
 saludar();
 saludar();
 saludar();
+
+//crear una funcion que me permita sumar los nuemros en php 
+//nombre de la funcion sumar
