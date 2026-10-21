@@ -12,3 +12,4 @@ function verificarNumero(int $numero): string {
 }
 echo verificarNumero(5); // El número 5 es impar.
 echo verificarNumero(8); // El número 8 es par.
+
